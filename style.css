@@ -1,0 +1,67 @@
+body {
+	background-color: gray;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+}
+
+.vision_button {
+	font-size: 32px;
+	background-color: #ff5733;
+	position:absolute;
+	margin-top: 670px;
+	margin-right: 150px;
+	padding: 5px 10px 5px 10px;
+	border: 1px solid black;
+	outline: none;
+}
+
+.vision_button:hover {
+	background-color: #943126;
+	color: white;
+}
+
+.slider_value {
+	position: absolute;
+	margin-top: 730px;
+}
+
+.play_button {
+	font-size: 32px;
+	background-color: #ff5733;
+	position:absolute;
+	margin-top: 670px;
+	margin-left: 150px;
+	padding: 5px 20px 5px 20px;
+	border: 1px solid black;
+	outline: none;
+}
+
+.play_button:hover {
+	background-color: #943126;
+	color: white;
+}
+
+.train_button {
+	font-size: 32px;
+	background-color: #ff5733;
+	position:absolute;
+	margin-top: 670px;
+	padding: 5px 20px 5px 20px;
+	border: 1px solid black;
+	outline: none;
+}
+
+.train_button:hover {
+	background-color: #943126;
+	color: white;
+}
+
+.speedParClass {
+	position: absolute;
+	font-size:32px;
+	margin-top: 750px;
+	font-family: 'Yanone Kaffeesatz', sans-serif; 
+}
